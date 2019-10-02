@@ -1,10 +1,8 @@
 ---
 title: "About me"
+ 
 ---
-
-
-This section also must include: 
-
-- first name/surname, teacher’s name, class name and academic year
-
-gggg
+Emely Uwaze
+Teacher : Bouchet 
+Groupe 3
+Année 2019 - 2020
