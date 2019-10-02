@@ -1,8 +1,10 @@
 ---
-title: "About me"
+title: "My blog "
 
 ---
-Emely Uwaze
-English teacher : Mme Bouchet 
-Groupe 3
-Année 2019 - 2020
+Author : Emely Uwaze
+---------------------
+
+* English teacher's name: Benedicte **Bouchet** 
+* English Groupe 3
+* Année académique 2019 - 2020
