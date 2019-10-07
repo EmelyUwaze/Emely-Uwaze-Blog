@@ -5,7 +5,7 @@ title: "My blog "
 Topic : The Brain
 ---------------------
 
-* Author : Emely Uwaze 
+* Author: **Emely Uwaze** 
 * English teacher's name: Benedicte **Bouchet** 
 * English Groupe 3
 * Année académique **2019 - 2020**
