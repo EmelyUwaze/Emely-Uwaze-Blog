@@ -1,15 +1,15 @@
 ---
-title: "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time"
+title: "Article 1 :Brain ‘ripples’ appear just before you remember something "
 author:
-  - name: Nicolas Devilez
-date: 09-18-2019
+  - name: Emely Uwaze
+date: 10-18-2019
 categories:
-  - elephant
-  - track
-preview: image/where-s-my-elephant.jpg
+  - brain
+  - memory
+preview: (/home/sv/Pictures/brain ripples.jpg)
 output:
   distill::distill_article:
-    self_contained: false
+    self_contained: FALSE
 ---
 
 ```{r setup, include=FALSE}
@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-![ [Credit: Alex Dissanayake Getty Images](https://www.gettyimages.be/detail/foto/dusk-falling-as-elephants-grazing-kenya-stockfotos/187255538) ](image/where-s-my-elephant.jpg)
+![ [Credit: Laura Sanders](https://www.sciencenewsforstudents.org/article/brain-ripples-appear-just-you-remember-something) ](/home/sv/Pictures/brain ripples.jpg)
 
 ## Vocabulary 
 
