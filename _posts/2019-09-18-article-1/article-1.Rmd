@@ -23,8 +23,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Words from the text | Synonym/explanation in English |
 | ------------------- | ------------------------------ |
-| E.g. To cope with   | To deal with                   |
-|                     | Not too distant future         |
+| Epilepsy  | A brain disease characterized by convulsions                  |
+| Ripples                   | Small waves
+|           |                There are ripples in the hippocampus when the brain want to forming memories| 
+|In sync | set to same time |
+|Data  | Facts or statistics collected during an experiment for analysis but not necessarily organized in a way that gives them meaning.|
+|Electode |  A machine which conducts electricity. It is used to make contact with non-metal part of an electrical circuit.|
+|Recall | To remember ( cognitive definition) |
 
 ## Analysis table 
 
@@ -32,11 +37,12 @@ knitr::opts_chunk$set(echo = FALSE)
 | ---------------------------- | ------------------------------------------------------------------- |
 | Researchers                  | Yitzhak Norman and his colleagues                        |
 | Professions                 | researchers at the Weizmann Institute of Science in Rehovot, Israel                           |
-| Published in?                | (insert date)                                                       |
-| General topic?               |  (summarize the topic in one or two sentences)                      |
-| Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
-| Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
-| Remaining questions?         | (check if there are still interrogations at the end of the article) |
+| Published in?                | 24th september 2019                                                       |
+| General topic?               | Few seconds before a memory "appear", certain nerve cells jolt into action in sync. This study give more information on how the brain stores and recalls informations |
+| Patients |This study involved patients who are suffering from epilepsy and who already had electrodes put in their brains for some medical purpose. Epilepsy causes a sudden ruch of electrical activity in the brain, known as convulsion, and the researchers put  electrodes in the patient's brains so they could locate those convulsions.|
+| Procedure | The researchers regulated the cells in brain's hippocampus to signals. They shown some images of people or places to the patients that they already knew. When the images appeared, the electrodes collect shards of activity. This phenomenon of shards of activity is called **sharp-wave ripples** and it happens when many nerve cells fire together. After showing them pictures, the researchers blindfolded the patients and asked to recall the pictures that they had seen earlier. |
+| Conclusions/discovery?       |  Just before the patients began describing the pictures they had seen, researchers noticed an increment in sharp-wave ripples. Those ripples resonnate to the ones seen earlier during the first step of the test. The conclusion is that their experiment suggest those ripples help people make and recall memories..     |
+| Remaining questions?         | There is no remaining question because this study is an answer to a previous question: the ripples in the hippocampus were important for create memories, but it wasn’t clear if the ripples also had a role in recalling memories. |
 
 
 <https://www.sciencenewsforstudents.org/article/brain-ripples-appear-just-you-remember-something>
