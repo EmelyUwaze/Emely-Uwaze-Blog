@@ -21,15 +21,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Vocabulary 
 
-| Words from the text | Synonym/explanation in English |
+| Words from the text | Explanation in English |
 | ------------------- | ------------------------------ |
 | Epilepsy  | A brain disease characterized by convulsions                  |
 | Ripples                   | Small waves
 |           |                There are ripples in the hippocampus when the brain want to forming memories| 
-|In sync | set to same time |
+|In sync | Set to same time |
 |Data  | Facts or statistics collected during an experiment for analysis but not necessarily organized in a way that gives them meaning.|
 |Electode |  A machine which conducts electricity. It is used to make contact with non-metal part of an electrical circuit.|
-|Recall | To remember ( cognitive definition) |
+|Recall | ( cognitive definition ) To remember |
 
 ## Analysis table 
 
