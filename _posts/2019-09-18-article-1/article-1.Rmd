@@ -30,7 +30,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | (insert names and, if possible, professions)                        |
+| Researchers                  | Yitzhak Norman and his colleagues                        |
+| Professions                 | researchers at the Weizmann Institute of Science in Rehovot, Israel                           |
 | Published in?                | (insert date)                                                       |
 | General topic?               |  (summarize the topic in one or two sentences)                      |
 | Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
