@@ -14,6 +14,6 @@ navbar:
 base_url: http://EmelyUwaze.github.io/Emely-Uwaze-Blog/
 collections:
     posts:
-    disqus : https-emelyuwaze-github-io-emely-uwaze-blog.
+    disqus : https-emelyuwaze-github-io-emely-uwaze-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
