@@ -12,12 +12,9 @@ output:
     self_contained: FALSE
 ---
 
-
-
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(echo =TRUE)
 ```
-
 ## Vocabulary 
 
 | Words from the text | Explanation in English |
