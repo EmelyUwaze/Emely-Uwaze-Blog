@@ -2,18 +2,20 @@
 title: "Article 1 :Brain ‘ripples’ appear just before you remember something "
 author:
   - name: Laura Sanders 
-date: 09/24/2019
+date: 9-24-2019
 categories:
   - brain
   - memory
-preview: home/sv/Pictures/brain ripples.jpg
+preview:
 output:
   distill::distill_article:
     self_contained: FALSE
 ---
 
-```
 
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ## Vocabulary 
