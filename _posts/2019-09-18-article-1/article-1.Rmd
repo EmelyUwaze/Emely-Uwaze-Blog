@@ -8,13 +8,16 @@ categories:
   - memory
 preview:
 output:
-  distill::distill_article:
+distill::distill_article:
     self_contained: FALSE
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo =TRUE)
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
 ```
+
+
+
 ## Vocabulary 
 
 | Words from the text | Explanation in English |
@@ -40,7 +43,7 @@ knitr::opts_chunk$set(echo =TRUE)
 | Conclusions/discovery?       |  Just before the patients began describing the pictures they had seen, researchers noticed an increment in sharp-wave ripples. Those ripples resonnate to the ones seen earlier during the first step of the test. The conclusion is that their experiment suggest those ripples help people make and recall memories..     |
 | Remaining questions?         | There is no remaining question because this study is an answer to a previous question: the ripples in the hippocampus were important for create memories, but it wasn’t clear if the ripples also had a role in recalling memories. |
 
-##URL Link
+## URL Link
 <https://www.sciencenewsforstudents.org/article/brain-ripples-appear-just-you-remember-something>
 
 
