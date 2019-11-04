@@ -13,6 +13,11 @@ navbar:
       href: https://github.com/EmelyUwaze/Emely-Uwaze-Bloghttps:/
 base_url: http://EmelyUwaze.github.io/Emely-Uwaze-Blog/
 collections:
+<<<<<<< HEAD
     posts: 
+=======
+    posts:
+    disqus: https-emelyuwaze-github-io-emely-uwaze-blog
+>>>>>>> ac356fab491150f352df37da69f6f1f8381ec256
       share: [twitter, linkedin, facebook]
 output: distill::distill_article

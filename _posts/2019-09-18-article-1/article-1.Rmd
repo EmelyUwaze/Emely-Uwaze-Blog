@@ -2,22 +2,33 @@
 title: "Article 1 :Brain ‘ripples’ appear just before you remember something "
 author:
   - name: Laura Sanders 
+<<<<<<< HEAD
 date: 09-24-2019
 categories:
   - brain
   - memory
 preview: (/home/sv/Pictures/brain ripple.jpg)
+=======
+date: 9-24-2019
+categories:
+  - brain
+  - memory
+preview:
+>>>>>>> ac356fab491150f352df37da69f6f1f8381ec256
 output:
-  distill::distill_article:
+distill::distill_article:
     self_contained: FALSE
 ---
 
-```{r setup, include=FALSE}
+```{r setup, include = FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
+<<<<<<< HEAD
 ![Credit: Laura Sanders](/home/sv/Pictures/brain ripple.jpg)
+=======
+>>>>>>> ac356fab491150f352df37da69f6f1f8381ec256
 
 ## Vocabulary 
 
@@ -45,7 +56,10 @@ knitr::opts_chunk$set(echo = FALSE)
 | Remaining questions?         | There is no remaining question because this study is an answer to a previous question: the ripples in the hippocampus were important for create memories, but it wasn’t clear if the ripples also had a role in recalling memories. |
 
 ## URL Link
+<<<<<<< HEAD
 
+=======
+>>>>>>> ac356fab491150f352df37da69f6f1f8381ec256
 <https://www.sciencenewsforstudents.org/article/brain-ripples-appear-just-you-remember-something>
 
 
