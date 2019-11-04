@@ -1,12 +1,12 @@
 ---
 title: "Article 1 :Brain ‘ripples’ appear just before you remember something "
 author:
-  - name: Emely Uwaze
-date: 10-18-2019
+  - name: Laura Sanders 
+date: 09-24-2019
 categories:
   - brain
   - memory
-preview: (/home/sv/Pictures/brain ripples.jpg)
+preview: (/home/sv/Pictures/brain ripple.jpg)
 output:
   distill::distill_article:
     self_contained: FALSE
@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-![Credit: Laura Sanders](/home/sv/Pictures/brain ripples.jpg)
+![Credit: Laura Sanders](/home/sv/Pictures/brain ripple.jpg)
 
 ## Vocabulary 
 
@@ -44,6 +44,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Conclusions/discovery?       |  Just before the patients began describing the pictures they had seen, researchers noticed an increment in sharp-wave ripples. Those ripples resonnate to the ones seen earlier during the first step of the test. The conclusion is that their experiment suggest those ripples help people make and recall memories..     |
 | Remaining questions?         | There is no remaining question because this study is an answer to a previous question: the ripples in the hippocampus were important for create memories, but it wasn’t clear if the ripples also had a role in recalling memories. |
 
+## URL Link
 
 <https://www.sciencenewsforstudents.org/article/brain-ripples-appear-just-you-remember-something>
 
