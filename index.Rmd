@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
 title: "The proper functioning of the BRAIN."
-=======
-title: "The proper functioning of the brain"
->>>>>>> ac356fab491150f352df37da69f6f1f8381ec256
 site: distill::distill_website
 listing: posts
 ---
