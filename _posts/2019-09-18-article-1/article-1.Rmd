@@ -44,9 +44,13 @@ knitr::opts_chunk$set(echo = FALSE)
 | Procedure | The researchers regulated the cells in brain's hippocampus to signals. They shown some images of people or places to the patients that they already knew. When the images appeared, the electrodes collect shards of activity. This phenomenon of shards of activity is called **sharp-wave ripples** and it happens when many nerve cells fire together. After showing them pictures, the researchers blindfolded the patients and asked to recall the pictures that they had seen earlier. |
 | Conclusions/discovery ?       |  Just before the patients began describing the pictures they had seen, researchers noticed an increment in sharp-wave ripples. Those ripples resonnate to the ones seen earlier during the first step of the test. The conclusion is that their experiment suggest those ripples help people make and recall memories..     |
 | Remaining questions ?         | There is no remaining question because this study is an answer to a previous question: the ripples in the hippocampus were important for create memories, but it wasn’t clear if the ripples also had a role in recalling memories. |
-
 ## URL Link
+the URL Link to the article : 
 <https://www.sciencenewsforstudents.org/article/brain-ripples-appear-just-you-remember-something>
 
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
 
 
