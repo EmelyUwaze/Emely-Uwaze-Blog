@@ -21,7 +21,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-![crédit: Robert Marton](https://static.scientificamerican.com/sciam/cache/file/FA20BD8C-1068-4C4C-83DC640033C16686_source.jpg?w=590&h=800&75D70919-16D9-4153-B10B4F17B6C49A72)
+![picture ](https://static.scientificamerican.com/sciam/cache/file/FA20BD8C-1068-4C4C-83DC640033C16686_source.jpg?w=590&h=800&75D70919-16D9-4153-B10B4F17B6C49A72)
 
 ## Vocabulary 
 
