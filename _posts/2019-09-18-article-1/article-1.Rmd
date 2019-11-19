@@ -6,10 +6,9 @@ date: 09-24-2019
 categories:
   - brain
   - memory
-preview: (/home/sv/Pictures/brain ripple.jpg)
 output:
 distill::distill_article:
-    self_contained: FALSE
+    self_contained: false
 ---
 
 ```{r setup, include = FALSE}
@@ -17,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-![Credit: Laura Sanders](https://www.sciencenewsforstudents.org/sites/default/files/scald-image/081619_LS_brain-ripple_feat-1028x579.jpg)
+![brain 'ripples'](https://www.sciencenewsforstudents.org/sites/default/files/scald-image/081619_LS_brain-ripple_feat-1028x579.jpg)
 
 
 ## Vocabulary 

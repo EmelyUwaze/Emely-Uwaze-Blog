@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
-    <loc>http://EmelyUwaze.github.io/Emely-Uwaze-Blog/about.html</loc>
+    <loc>https://emelyuwaze.github.io/Emely-Uwaze-Blog/about.html</loc>
     <lastmod>2019-10-18T15:29:23+02:00</lastmod>
   </url>
   <url>
-    <loc>http://EmelyUwaze.github.io/Emely-Uwaze-Blog/english-activity.html</loc>
-    <lastmod>2019-11-19T11:01:36+01:00</lastmod>
+    <loc>https://emelyuwaze.github.io/Emely-Uwaze-Blog/english-activity.html</loc>
+    <lastmod>2019-11-19T11:13:00+01:00</lastmod>
   </url>
   <url>
-    <loc>http://EmelyUwaze.github.io/Emely-Uwaze-Blog/</loc>
+    <loc>https://emelyuwaze.github.io/Emely-Uwaze-Blog/</loc>
     <lastmod>2019-11-06T10:30:38+01:00</lastmod>
   </url>
 </urlset>
