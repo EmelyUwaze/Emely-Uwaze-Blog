@@ -2,15 +2,15 @@
 title: "Article 2  :Scientist Demonstrate Direct Brain-to-Brain Communication in Humans."
 author:
   - name: Robert Martone 
-date: 10/29/2019
+date: 10-29-2019
 categories:
   - brain
   - communication 
   - neuroscience
-preview: 
+#preview: 
 output:
-distill::distill_article:
-    self_contained: false
+  distill::distill_article:
+     self_contained: false
 ---
 
 

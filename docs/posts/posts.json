@@ -1,1 +1,39 @@
-[]
+[
+  {
+    "path": "posts/2019-11-04-article-2/",
+    "title": "Article 2  :Scientist Demonstrate Direct Brain-to-Brain Communication in Humans.",
+    "description": {},
+    "author": [
+      {
+        "name": "Robert Martone",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-29",
+    "categories": [
+      "brain",
+      "communication",
+      "neuroscience"
+    ],
+    "preview": {},
+    "last_modified": "2019-11-21T17:30:16+01:00"
+  },
+  {
+    "path": "posts/2019-09-18-article-1/",
+    "title": "Article 1 :Brain ‘ripples’ appear just before you remember something ",
+    "description": {},
+    "author": [
+      {
+        "name": "Laura Sanders",
+        "url": {}
+      }
+    ],
+    "date": "2019-09-24",
+    "categories": [
+      "brain",
+      "memory"
+    ],
+    "preview": {},
+    "last_modified": "2019-11-21T17:30:35+01:00"
+  }
+]
