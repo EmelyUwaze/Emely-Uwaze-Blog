@@ -6,18 +6,17 @@ date: 09-24-2019
 categories:
   - brain
   - memory
-preview: (/home/sv/Pictures/brain ripple.jpg)
 output:
 distill::distill_article:
-    self_contained: FALSE
+    self_contained: false
 ---
 
 ``` {r setup, include = FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![Credit: Laura Sanders](/home/sv/Pictures/brain ripple.jpg)
 
+![brain 'ripples'](https://www.sciencenewsforstudents.org/sites/default/files/scald-image/081619_LS_brain-ripple_feat-1028x579.jpg)
 
 ## Vocabulary 
 
@@ -53,14 +52,17 @@ knitr::opts_chunk$set(echo = FALSE)
 
 =======
 | Remaining questions ?         | There is no remaining question because this study is an answer to a previous question: the ripples in the hippocampus were important for create memories, but it wasn’t clear if the ripples also had a role in recalling memories. |
+<<<<<<< HEAD
 >>>>>>> 719601597b02e75cecaf62e360938aed91f55964
+=======
+
+
+
+>>>>>>> a53f8f4ca6fae759e986b6957759c9a21ca9639c
 ## URL Link
-the URL Link to the article : 
+
 <https://www.sciencenewsforstudents.org/article/brain-ripples-appear-just-you-remember-something>
 
 
-Distill is a publication format for scientific and technical writing, native to the web.
-
-Learn more about using Distill at <https://rstudio.github.io/distill>.
 
 

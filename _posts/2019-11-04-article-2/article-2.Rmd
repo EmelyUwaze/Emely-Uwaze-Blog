@@ -10,17 +10,40 @@ categories:
 preview: 
 output:
 distill::distill_article:
-    self_contained: FALSE
+    self_contained: false
 ---
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![crédit: Robert Marton](/home/sv/Pictures/Brain-to-Brain.jpg)
+
+![brain to brain communication](https://static.scientificamerican.com/sciam/cache/file/FA20BD8C-1068-4C4C-83DC640033C16686_source.jpg?w=590&h=800&75D70919-16D9-4153-B10B4F17B6C49A72)
 
 ## Vocabulary 
 
+| Words from the text |  Definition or Synonyms                                                                  |
+| ------------------- | ---------------------------------------------------------------------------------------- |
+| otherwise           | in other manner                                                                          |
+| such                | like or similar of the kind                                                              |
+| a task              | a work assigned to someone                                                               |
+| a link              |  to connect something ( or a part of something )  to an other                            |
+| tether              |  to fasten or confine                                                                    |
+| pattern             | a recognizable combination of motifs or actions that are repetitive                      |
+| nevre cells         | the smallest structural and functional unit plan organism belonging to the brain system  |
+| to provide          |  to supply or equip                                                                      |
+| enhance             | to increase the value or quality                                                         |
+| a gap               |  a hole                                                                                  |
+| sender              |  a person ( or thing ) that sends = a transmitter                                        |
+| receiver            | a person ( or thing ) that receives                                                      |
+| to convey           |  to transport or to communicate                                                          |
+| gathering           |  an assemblage of anything                                                               |
+| to assess           |  to estimate the value of something                                                      |
+| a feat              |  an achievement                                                                          |
+| the DARPA           | Defense Advanced Research Project Agency                                                 |
+| a network           | any combination of interconnecting pieces, lines, etc                                    |
+| accuracy            |  exactness or precision                                                                  |
 
 ## Analysis table
 
@@ -37,6 +60,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
+## URL LINK 
+
+<https://www.scientificamerican.com/article/scientists-demonstrate-direct-brain-to-brain-communication-in-humans/>
 
 
 
@@ -48,9 +74,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
-
-
-Distill is a publication format for scientific and technical writing, native to the web.
-
-Learn more about using Distill at <https://rstudio.github.io/distill>.
 

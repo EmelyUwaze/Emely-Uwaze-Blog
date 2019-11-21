@@ -10,8 +10,8 @@ navbar:
     - text: "About"
       href: about.html
     - icon: fab fa-github
-      href: https://github.com/EmelyUwaze/Emely-Uwaze-Bloghttps:/
-base_url: http://EmelyUwaze.github.io/Emely-Uwaze-Blog/
+      href: https://github.com/EmelyUwaze/Emely-Uwaze-Blog
+base_url: https://emelyuwaze.github.io/Emely-Uwaze-Blog/
 collections:
     posts:
       share: [twitter, linkedin, facebook]
