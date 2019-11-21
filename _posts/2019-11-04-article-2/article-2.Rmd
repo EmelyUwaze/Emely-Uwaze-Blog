@@ -1,0 +1,56 @@
+---
+title: "Article 2  :Scientist Demonstrate Direct Brain-to-Brain Communication in Humans."
+author:
+  - name: Robert Martone 
+date: 10/29/2019
+categories:
+  - brain
+  - communication 
+  - neuroscience
+preview: 
+output:
+distill::distill_article:
+    self_contained: FALSE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![crédit: Robert Marton](/home/sv/Pictures/Brain-to-Brain.jpg)
+
+## Vocabulary 
+
+
+## Analysis table
+
+|                        |                                |
+|------------------------|--------------------------------|
+| Researchers ?         | Miguel Nicolelis. And the researchers who did the experiment in the part that the author called " the new paper " are : Linxing Jiang, Andrea Stocco, Darby M.Losey and Rajesh P.N.Rao |
+| Professions ?         | Nicolelis is a Brazilian scientist ans a physician. The "new paper" researchers are different kind of researchers all working at University of Washington in Seattle, USA.|
+| Published in ?        | Sientific American |
+| General Topic ?       | Brains can communicate together, using their electrical activity to send magnetic signals that can be detected from an other brain. |
+| Patients ?            | Nicolelis used rat's brain.The other experiment involved human's brain |
+| Procedure ?           | Nicolelis experiment: He connected together the brains of few rats, using specific electrodes  He described it as the first " organic computer". The rats in the network learned to synchronize the electrical activity of their nerve cells to the same extent as those in a single brain.The new paper experiment:They linked together the brain activity of three humans , creating a small network. The three person were in separate rooms and they had to collaborate to orient a block like in the game TETRIS. Two person were the " senders", they could see the gap and new if the block needed to be rotated. The third was the "receiver", he was blinded and he was the onethat rotated the block.     |
+| Conclusion ?          | This biological supercomputer of networked animal brains (BrainNet) ) was effective. On average, they achieved greater than 80 percent accuracy in completing the task. It is the first report where humans brain were connected in an completely noninvasive manner. |
+| Remaining questions ? | Could such a network be a faster, more efficient and smarter way of working together ? Enable people to work across language barriers? |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
