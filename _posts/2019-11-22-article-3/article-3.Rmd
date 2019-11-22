@@ -49,7 +49,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Patients ?             |  mostly mice                              |
 | Discovery ?            | Just before waking and sleeping, neurons in cognition-related brain areas packed a timekeeping cell’s signaling stations with these transcripts. The “sleep time” transcripts tended to be for proteins that regulate building other proteins, while the “wake time” instructions were for proteins linked to synapse function. In sleep-deprived mice, the cell still produced many of the transcripts but did not build the related proteins. But, not all proteins that the cell makes necessarily go into active service. Attachment or removal of a phosphate molecule acts as a toggle to turn proteins on or off, levels of proteins that had been tagged with phosphates peaked twice, with the bigger peak occurring just before waking. And sleep deprivation flattened these peaks.                           |
 | Conclusion ?           | Sleeping regulates the final protein-building step and carry out the robustness of synapses..                               |
-| Remaining question ?   | No remainig question                               |
+| Remaining question ?   | There is no  remaining question                              |
 
 ## URL Link
 Here is the URL Link. 
