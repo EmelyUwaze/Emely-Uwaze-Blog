@@ -22,16 +22,34 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Words from the text |  Definition or Synonyms                                                                  |
 | ------------------- | ---------------------------------------------------------------------------------------- |
-
-
+|Urge | A desir or a need   | 
+|Circadian                    | It is a biological process recurring naturally on a 24 hours cycle, even in the absence of light fluctuations.              |
+|Synapses | The fusion of homologous chromosomes, one from each parent, during early meiosis.    |
+|Timekeepers| Ponctuality or to precisely watch time go by |
+|Slumber|  a period of sleep        |
+|Mice| the plural of mouse. Mouse is a small rodent having a long and thin tail.         |
+|peaks | the pointed top of anything.     |
+|To tend | to be likely( dispose )to do something     |
+|Trigger something| to set in motion something, to provoke      |
+|To insure| To guarantee something |
+|Robust| It is something physically strong or sturdily built    |
+|toggle| It is between two positions and it go from one to an other     |
+|pinn down |  to hold on     |
 
 ## Analysis table
 
 |                        |                                |
 |------------------------|--------------------------------|
-| Researchers ?          |                                |
-| Professions ?          |                                |
-| Published in ?         | Sientific American             |
+| Researchers ?          | Sara B. Noya and her colleagues                              |
+|                         | Franziska Brüning and her colleagues                        |
+| Professions ?          | Sara B. Noya = researcher at the Institute of Pharmacology and Toxicology at the University of Zurich|
+|                       | Franziska Brüning = researcher at the Ludwig Maximilian University of Munich and the Max Planck Institute of Biochemistry in Martinsried, Germany.                               ||
+| Published in ?         | Sientific American, the 10th october 2019          |
+| General topic ?        |The internal clock regulates the rhythmic generation of instructions, or transcripts, for making proteins. And sleeping regulate the building of essential brain proteins.                           |
+| Patients ?             |  mostly mice                              |
+| Discovery ?            | Just before waking and sleeping, neurons in cognition-related brain areas packed a timekeeping cell’s signaling stations with these transcripts. The “sleep time” transcripts tended to be for proteins that regulate building other proteins, while the “wake time” instructions were for proteins linked to synapse function. In sleep-deprived mice, the cell still produced many of the transcripts but did not build the related proteins. But, not all proteins that the cell makes necessarily go into active service. Attachment or removal of a phosphate molecule acts as a toggle to turn proteins on or off, levels of proteins that had been tagged with phosphates peaked twice, with the bigger peak occurring just before waking. And sleep deprivation flattened these peaks.                           |
+| Conclusion ?           | Sleeping regulates the final protein-building step and carry out the robustness of synapses..                               |
+| Remaining question ?   | No remainig question                               |
 
 ## URL Link
 Here is the URL Link. 
