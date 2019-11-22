@@ -1,24 +1,5 @@
 [
   {
-    "path": "posts/2019-11-04-article-2/",
-    "title": "Article 2  :Scientist Demonstrate Direct Brain-to-Brain Communication in Humans.",
-    "description": {},
-    "author": [
-      {
-        "name": "Robert Martone",
-        "url": {}
-      }
-    ],
-    "date": "2019-10-29",
-    "categories": [
-      "brain",
-      "communication",
-      "neuroscience"
-    ],
-    "preview": {},
-    "last_modified": "2019-11-22T15:21:29+01:00"
-  },
-  {
     "path": "posts/2019-11-22-article-3/",
     "title": "Article 3 :Sleep Deprivation Shuts Down Production of Essential Brain Proteins",
     "description": {},
@@ -28,13 +9,32 @@
         "url": {}
       }
     ],
-    "date": "2019-10-10",
+    "date": "2019-11-17",
     "categories": [
       "brain",
       "sleep deprivation"
     ],
     "preview": {},
-    "last_modified": "2019-11-22T16:53:23+01:00"
+    "last_modified": "2019-11-22T16:59:06+01:00"
+  },
+  {
+    "path": "posts/2019-11-04-article-2/",
+    "title": "Article 2  :Scientist Demonstrate Direct Brain-to-Brain Communication in Humans.",
+    "description": {},
+    "author": [
+      {
+        "name": "Robert Martone",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-04",
+    "categories": [
+      "brain",
+      "communication",
+      "neuroscience"
+    ],
+    "preview": {},
+    "last_modified": "2019-11-22T17:00:17+01:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",
@@ -46,12 +46,12 @@
         "url": {}
       }
     ],
-    "date": "2019-09-24",
+    "date": "2019-10-21",
     "categories": [
       "brain",
       "memory"
     ],
     "preview": {},
-    "last_modified": "2019-11-22T15:26:08+01:00"
+    "last_modified": "2019-11-22T17:00:00+01:00"
   }
 ]

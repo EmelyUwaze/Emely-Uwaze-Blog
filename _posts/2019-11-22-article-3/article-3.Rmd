@@ -2,7 +2,7 @@
 title: "Article 3 :Sleep Deprivation Shuts Down Production of Essential Brain Proteins"
 author:
   - name: Emily Willingham
-date: 10-10-2019
+date: 11-17-2019
 categories: 
   - brain
   - sleep deprivation 
@@ -44,7 +44,7 @@ knitr::opts_chunk$set(echo = FALSE)
 |                         | Franziska Brüning and her colleagues                        |
 | Professions ?          | Sara B. Noya = researcher at the Institute of Pharmacology and Toxicology at the University of Zurich|
 |                       | Franziska Brüning = researcher at the Ludwig Maximilian University of Munich and the Max Planck Institute of Biochemistry in Martinsried, Germany.                               ||
-| Published in ?         | Sientific American, the 10th october 2019          |
+| Published in ?         | The 10th october 2019, on Scientific American         |
 | General topic ?        |The internal clock regulates the rhythmic generation of instructions, or transcripts, for making proteins. And sleeping regulate the building of essential brain proteins.                           |
 | Patients ?             |  mostly mice                              |
 | Discovery ?            | Just before waking and sleeping, neurons in cognition-related brain areas packed a timekeeping cell’s signaling stations with these transcripts. The “sleep time” transcripts tended to be for proteins that regulate building other proteins, while the “wake time” instructions were for proteins linked to synapse function. In sleep-deprived mice, the cell still produced many of the transcripts but did not build the related proteins. But, not all proteins that the cell makes necessarily go into active service. Attachment or removal of a phosphate molecule acts as a toggle to turn proteins on or off, levels of proteins that had been tagged with phosphates peaked twice, with the bigger peak occurring just before waking. And sleep deprivation flattened these peaks.                           |

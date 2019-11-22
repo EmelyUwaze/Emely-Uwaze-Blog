@@ -2,7 +2,7 @@
 title: "Article 1 :Brain ‘ripples’ appear just before you remember something "
 author:
   - name: Laura Sanders
-date: 09-24-2019
+date: 10-21-2019
 categories:
   - brain
   - memory
@@ -36,7 +36,7 @@ knitr::opts_chunk$set(echo = FALSE)
 |----------------|----------|
 | Researchers ?                  | Yitzhak Norman and his colleagues                        |
 | Professions ?                | researchers at the Weizmann Institute of Science in Rehovot, Israel                           |
-| Published in ?                | 24th september 2019                                                       |
+| Published in ?                | 24th september 2019, on ScienceNewsForStudents                                                       |
 | General topic ?               | Few seconds before a memory "appear", certain nerve cells jolt into action in sync. This study give more information on how the brain stores and recalls informations |
 | Patients |This study involved patients who are suffering from epilepsy and who already had electrodes put in their brains for some medical purpose. Epilepsy causes a sudden ruch of electrical activity in the brain, known as convulsion, and the researchers put  electrodes in the patient's brains so they could locate those convulsions.|
 | Procedure | The researchers regulated the cells in brain's hippocampus to signals. They shown some images of people or places to the patients that they already knew. When the images appeared, the electrodes collect shards of activity. This phenomenon of shards of activity is called **sharp-wave ripples** and it happens when many nerve cells fire together. After showing them pictures, the researchers blindfolded the patients and asked to recall the pictures that they had seen earlier. |

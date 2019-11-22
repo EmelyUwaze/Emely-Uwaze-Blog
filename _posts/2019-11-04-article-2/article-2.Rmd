@@ -2,7 +2,7 @@
 title: "Article 2  :Scientist Demonstrate Direct Brain-to-Brain Communication in Humans."
 author:
   - name: Robert Martone 
-date: 10-29-2019
+date: 11-04-2019
 categories:
   - brain
   - communication 
@@ -51,7 +51,7 @@ knitr::opts_chunk$set(echo = FALSE)
 |------------------------|--------------------------------|
 | Researchers ?         | Miguel Nicolelis. And the researchers who did the experiment in the part that the author called " the new paper " are : Linxing Jiang, Andrea Stocco, Darby M.Losey and Rajesh P.N.Rao |
 | Professions ?         | Nicolelis is a Brazilian scientist ans a physician. The "new paper" researchers are different kind of researchers all working at University of Washington in Seattle, USA.|
-| Published in ?        | Sientific American |
+| Published in ?        | 29th October 2019, on Scientific American |
 | General Topic ?       | Brains can communicate together, using their electrical activity to send magnetic signals that can be detected from an other brain. |
 | Patients ?            | Nicolelis used rat's brain.The other experiment involved human's brain |
 | Procedure ?           | Nicolelis experiment: He connected together the brains of few rats, using specific electrodes  He described it as the first " organic computer". The rats in the network learned to synchronize the electrical activity of their nerve cells to the same extent as those in a single brain.The new paper experiment:They linked together the brain activity of three humans , creating a small network. The three person were in separate rooms and they had to collaborate to orient a block like in the game TETRIS. Two person were the " senders", they could see the gap and new if the block needed to be rotated. The third was the "receiver", he was blinded and he was the onethat rotated the block.     |
