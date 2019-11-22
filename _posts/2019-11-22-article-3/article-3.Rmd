@@ -1,0 +1,40 @@
+---
+title: "Article 3 :Sleep Deprivation Shuts Down Production of Essential Brain Proteins"
+author:
+  - name: Emily Willingham
+date: 10-10-2019
+categories: 
+  - brain
+  - sleep deprivation 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+![sleep deprivation](https://static.scientificamerican.com/sciam/cache/file/010A514F-04C7-42EA-96A4A194D7E8EBE4_source.jpg?w=590&h=800&145A1CA3-117D-478D-BB38973C859F0BCF)
+
+## Vocabulary
+
+| Words from the text |  Definition or Synonyms                                                                  |
+| ------------------- | ---------------------------------------------------------------------------------------- |
+
+
+
+## Analysis table
+
+|                        |                                |
+|------------------------|--------------------------------|
+| Researchers ?          |                                |
+| Professions ?          |                                |
+| Published in ?         | Sientific American             |
+
+## URL Link
+Here is the URL Link. 
+<https://www.scientificamerican.com/article/sleep-deprivation-shuts-down-production-of-essential-brain-proteins/>
+
+

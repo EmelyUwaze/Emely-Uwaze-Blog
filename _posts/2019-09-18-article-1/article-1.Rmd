@@ -32,6 +32,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Analysis table 
 
+|                |          |
+|----------------|----------|
 | Researchers ?                  | Yitzhak Norman and his colleagues                        |
 | Professions ?                | researchers at the Weizmann Institute of Science in Rehovot, Israel                           |
 | Published in ?                | 24th september 2019                                                       |
