@@ -46,7 +46,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## URL
 
-Here is the URL Link of the article 
+Here is the URL of the article 
 <https://www.sciencenewsforstudents.org/article/brain-ripples-appear-just-you-remember-something>
 
 
