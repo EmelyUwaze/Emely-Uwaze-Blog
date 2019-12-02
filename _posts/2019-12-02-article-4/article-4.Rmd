@@ -1,0 +1,34 @@
+---
+title: "article 4 : Our Brain Uses a Not-So-Instant Replay to Make Decisions"
+author:
+  - name: Bret Stetka 
+date: 12-02-2019
+categories:
+  - brain
+  - reflexion
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![Not-So-Instant Replay](https://static.scientificamerican.com/sciam/cache/file/DA13F4E4-6F00-4B27-B36557CB7530A90C_source.jpg?w=590&h=800&EA894E83-6A75-4DE0-8E9A82E686C29956)
+
+
+
+## Vocabulary
+
+| Words from the text |  Definition or Synonyms                                                                  |
+| ------------------- | ---------------------------------------------------------------------------------------- |
+
+
+
+
+
+## Analysis table
+
+|                        |                                |
+|------------------------|--------------------------------|

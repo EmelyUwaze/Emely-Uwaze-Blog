@@ -1,5 +1,23 @@
 [
   {
+    "path": "posts/2019-12-02-article-4/",
+    "title": "article 4 : Our Brain Uses a Not-So-Instant Replay to Make Decisions",
+    "description": {},
+    "author": [
+      {
+        "name": "Bret Stetka",
+        "url": {}
+      }
+    ],
+    "date": "2019-12-02",
+    "categories": [
+      "brain",
+      "reflexion"
+    ],
+    "preview": {},
+    "last_modified": "2019-12-02T11:29:49+01:00"
+  },
+  {
     "path": "posts/2019-11-22-article-3/",
     "title": "Article 3 :Sleep Deprivation Shuts Down Production of Essential Brain Proteins",
     "description": {},
