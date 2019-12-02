@@ -44,7 +44,7 @@ knitr::opts_chunk$set(echo = FALSE)
 | Remaining questions?         | There is no remaining question because this study is an answer to a previous question: the ripples in the hippocampus were important for create memories, but it wasn’t clear if the ripples also had a role in recalling memories. |
 
 
-## URL Link
+## URL
 
 Here is the URL Link of the article 
 <https://www.sciencenewsforstudents.org/article/brain-ripples-appear-just-you-remember-something>

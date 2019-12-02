@@ -60,7 +60,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
-## URL LINK 
+## URL
 <https://www.scientificamerican.com/article/scientists-demonstrate-direct-brain-to-brain-communication-in-humans/>
 
 
