@@ -1,11 +1,11 @@
 ---
-title: "article-5"
-description: |
-  A short description of the post.
+title: "Article 5 : Implanting Memories in Birds Reveals How Learning Happens"
 author:
   - name: Bret Stetka
-    url: {}
 date: 12-16-2019
+categories:
+  - brain
+  - memory
 output:
   distill::distill_article:
     self_contained: false
@@ -15,7 +15,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-
+![Bird's memory](https://static.scientificamerican.com/sciam/cache/file/FAB11FF6-7AB2-4092-9C63BDC5D7B2E1E2_source.jpg?w=590&h=800&644AC131-B768-4D46-BA22BAA282FBF880)
 
 ## Vocabulary
 
