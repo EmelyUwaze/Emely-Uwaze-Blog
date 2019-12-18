@@ -1,0 +1,31 @@
+---
+title: "article-5"
+description: |
+  A short description of the post.
+author:
+  - name: Bret Stetka
+    url: {}
+date: 12-16-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+## Vocabulary
+
+| Words from the text |  Definition or Synonyms                                                                  |
+| ------------------- | ---------------------------------------------------------------------------------------- |
+
+
+
+## Analysis table
+
+|                        |                                |
+|------------------------|--------------------------------|
+| Researchers ?                |   |

@@ -28,13 +28,11 @@ knitr::opts_chunk$set(echo = FALSE)
 |To Choice    | To select something  from different propositions  |
 |Rodent  | a mammal belonging to a family of animals that has four sharp teeth that grow continually:   |
 |Pattern             | a recognizable combination of motifs or actions that are repetitive                      |
-|   Encounters |     |
-| Underwent  |     |
-| Fate      |     |
-|Undergo       |    |
-|  Whether   |    |
-|Allows     |      |
-|A journey    |    | 
+|   Encounters | a meeting with someone     |
+| Underwent  | to be subjected to, to experience    |
+| Fate      | something that unavoidably happens to a person     |
+|Allows     | to let have     |
+|A journey    |  traveling from one place to another, usually taking a rather long time    | 
 
 
 

@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2019-12-18-article-5/",
+    "title": "article-5",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Bret Stetka",
+        "url": {}
+      }
+    ],
+    "date": "2019-12-16",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-12-18T10:54:20+01:00"
+  },
+  {
     "path": "posts/2019-12-02-article-4/",
     "title": "article 4 : Our Brain Uses a Not-So-Instant Replay to Make Decisions",
     "description": {},
@@ -12,10 +27,10 @@
     "date": "2019-12-02",
     "categories": [
       "brain",
-      "reflexion"
+      "functioning"
     ],
     "preview": {},
-    "last_modified": "2019-12-06T17:22:40+01:00"
+    "last_modified": "2019-12-18T10:54:36+01:00"
   },
   {
     "path": "posts/2019-11-22-article-3/",
