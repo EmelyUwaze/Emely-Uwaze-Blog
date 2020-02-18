@@ -21,11 +21,24 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Words from the text |  Definition or Synonyms                                                                  |
 | ------------------- | ---------------------------------------------------------------------------------------- |
-
+| To have a hunch  | To have a slight idea of something |
+| Surrounded |being encircled by |
+| Field | area of expertise |
+| Electrode |  A machine which conducts electricity. It is used to make contact with non-metal part of an electrical circuit. |
+| Pinpoint | Show exact cause  |
+| Disorder ( medical) | It is a disturbance in health |
 
 
 ## Analysis table
 
 |                        |                                |
 |------------------------|--------------------------------|
-| Researchers ?                |   |
+| Researchers ?                | Todd Roberts and his team |
+| Professions ?                 |  Todd Roberts is a researcher in the UT Southwestern Medical Center in Texas.|
+| Published in ?                |  The 20th november 2020 in *Science*                          |
+| General topic ?               | Researchers activated specific brain cells in zebra finches to teach them songs they would ordinarily have to hear to learn.|
+| Patients                      | The experiment used zebra finch.                  |
+| Procedure                     |  Songbirds learn their song by first forming a memory of their parent’s song. And then they use that memory in order to guide their song learning. Roberts and his team  had a slight idea that the interface between sensory areas and motor areas in the brain was critical for this process, and they zeroed in on a group of brain cells called the NIf. They go in this zone and see if they could implant a false memory.  They used a technique called optogenetics: they used a virus to cause the neurons in the birds’ NIf to become sensitive to light. Then, using a tiny electrode as a flashlight, they activated the neurons. The length of each pulse of light corresponded with the amount of time the neurons would fire. And the birds’ brains interpreted that time period as the length of each note. |
+| Conclusions/discovery ?       |  After the experiment, the birds began to practice the notes they had learned, even if they never really heard the sounds in the first place.   |
+| Remaining question ? |  What is still elusive to neuroscientists is exactly how the brain works to put all new information together ?  | 
+
