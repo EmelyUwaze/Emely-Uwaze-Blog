@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-05-04-article-6/",
+    "title": "Article 6 : How does mammalian brain forget ?",
+    "description": {},
+    "author": [
+      {
+        "name": "Diana Know",
+        "url": {}
+      }
+    ],
+    "date": "2020-04-25",
+    "categories": [
+      "brain memmory"
+    ],
+    "preview": {},
+    "last_modified": "2020-05-04T21:35:39+02:00"
+  },
+  {
     "path": "posts/2019-12-18-article-5/",
     "title": "Article 5 : Implanting Memories in Birds Reveals How Learning Happens",
     "description": {},
@@ -15,7 +32,7 @@
       "memory"
     ],
     "preview": {},
-    "last_modified": "2020-02-18T11:48:29+01:00"
+    "last_modified": "2020-05-04T17:47:47+02:00"
   },
   {
     "path": "posts/2019-12-02-article-4/",
@@ -33,7 +50,7 @@
       "functioning"
     ],
     "preview": {},
-    "last_modified": "2020-02-18T10:33:01+01:00"
+    "last_modified": "2020-05-04T21:03:32+02:00"
   },
   {
     "path": "posts/2019-11-22-article-3/",
@@ -51,7 +68,7 @@
       "sleep deprivation"
     ],
     "preview": {},
-    "last_modified": "2020-02-18T10:33:01+01:00"
+    "last_modified": "2020-05-04T17:47:46+02:00"
   },
   {
     "path": "posts/2019-11-04-article-2/",
@@ -70,7 +87,7 @@
       "neuroscience"
     ],
     "preview": {},
-    "last_modified": "2020-02-18T10:33:00+01:00"
+    "last_modified": "2020-05-04T17:47:46+02:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",
@@ -88,6 +105,6 @@
       "memory"
     ],
     "preview": {},
-    "last_modified": "2020-02-18T10:33:00+01:00"
+    "last_modified": "2020-05-04T17:47:46+02:00"
   }
 ]

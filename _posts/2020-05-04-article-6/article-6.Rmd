@@ -1,0 +1,45 @@
+---
+title: "Article 6 : How does mammalian brain forget ?"
+author:
+  - name: Diana Know
+    url: {}
+date: 04-25-2020
+categories:
+  brain
+  memmory
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![mammalian brain](https://static.scientificamerican.com/sciam/cache/file/8ACCCC73-6842-4AE7-B09CFD37A4A26450_source.jpg?w=590&h=800&3FB81E50-3D9D-44C5-8FF237E87874318B)
+
+## Vocabulary
+
+| Words from the text |  Definition or Synonyms                                                                  |
+| ------------------- | ---------------------------------------------------------------------------------------- |
+| Microglia | Brain's resident immune cells|
+| Depleted| To reduice or to decrease seriously|
+| To assess| To evaluate the importance os fomething|
+| Retention | The power of remembering things|
+| Mild| Soft, gentle. In the opposite of extreme|
+| Hippocampus| A brain region that is involved in memory and learning|
+|Engrams | Ensemble of neurons where memories are stored|
+
+## Analysis Table 
+
+|              |                |
+|--------------|----------------|
+| Researchers | Yan Gu, Lang Wang and their colleagues  |
+| Professions|Yan Gu, Lang Wang and all their coworkers work at the Neuroscientist at the Zhejiang University of Medecine in China  |
+| Published in |In « Science » on 6th february 2020|
+| General topic|  Some scientists using mice have demonstrated that microglia play a
+critical role in helping the brain to forget. |
+| Patients| Mice |
+| Procedure | The scientists were wondering if the microglia cells can eliminate synapses and what is the relationship between forgetting things and the loss of synapses by microglia cells. Yan Gu and his team reduiced seriously microglias from the brains of mice by administered drugs through food or injected directly into the brain. To assess memory retention, they used contextual fear conditioning. This methode consist to placing rodents in a cage and giving them mild electric shocks. When the animals enter for the second time in the cage, even in the absence of a shock, the memory of the previous experience immobilizes them. They found that although this freezing response diminished after a few weeks in healthy animals, it remained intact in their microglia. Then , the scientists worked on the hippocampus Futher tests revealed that forgetting was dependent on the microglia's ability to "swallow" synapses and on the activity of neurones Suppressing the activation of neurons that are associated to memory led to the fact that mice forget more than usually. | 
+| Conclusion |Forgetting via microglia cells may be a generalized form of forgetting. Even in brain regions without neurogenesis Neurogenesis consist on adding neurons that will introduces new connections and breaks old ones. That will altering the existing pattern of synapses in engrams and making them harder to access|
+| Remaining question |  Yan Gu and his colleagues are now working on further details about the mechanism through which microglia "choose" synapses to target and if it is this processus that cause neurodegenerative diseases|
