@@ -33,11 +33,11 @@ knitr::opts_chunk$set(echo = FALSE)
 | Researchers | Luke Miller and his colleagues; Allessandro Farnè |
 | Profesions |  Luke Miller is a neuroscientist at Claud Bernard Lyon University in France. Allessandro Farnè is a neuroscientist at the Lyon Neuroscience Research Center in France|
 |General topic | Humans are cabable to know where an object comes into contact with a compact tool using only touch , as if the object were touching their own skin. Research revealed that the tool is being treated, by the brain, as a sensory extension of your body.  |
-| Published in |  Published in « Current Biology » in december 2019 | 
+| Published in ? |  Published in « Current Biology » in december 2019 | 
 | Patients | 16 humans, who are all right-handed | 
 | Procedure | 16 right-handed subjects were asked to determine where they felt touches a long wooden rod. On 400 trials, the patients were on average 96 % accurate. During this experiment, researchers recorded the cortical brain activity of patients brain by using electrodes. They established that the cortex rapidly processed where the tool was touched. Computer simulations showed that information about rod contact location could be extracted efficiently within 20 milliseconds.  |
 | Conclusion | The neural mecanisms for detecting touch location on objects are extremely similar to what happens to localize touch on our own body. |
-| Remaining question | The results could help in the design of better prostheses because insensate objects can become a way to detecting informations. |
+| Remaining question | The results could help in designing better prostheses because insensate objects can become a way to detecting informations. |
 
 
 ## URLink
