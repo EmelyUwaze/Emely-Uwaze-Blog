@@ -1,0 +1,20 @@
+---
+title: "AboutMe"
+description: |
+  A short description of the post.
+author:
+  - name: Richard Sima
+    url: {}
+date: 11-24-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+Topic : The Brain
+---------------------
+
+* Author: **Emely Uwaze** 
+* English teacher's name: Benedicte **Bouchet** 
+* English Groupe 3
+* Année académique **2019 - 2020**

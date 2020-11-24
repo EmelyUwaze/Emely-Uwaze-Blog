@@ -7,8 +7,8 @@ navbar:
       href: index.html
     - text: "Miscellaneous"
       href: english-activity.html
-    - text: "About"
-      href: about.html
+    - text: "AboutMe"
+      href: "posts/about/index.html"
     - icon: fab fa-github
       href: https://github.com/EmelyUwaze/Emely-Uwaze-Blog
 base_url: https://emelyuwaze.github.io/Emely-Uwaze-Blog/

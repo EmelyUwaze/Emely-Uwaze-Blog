@@ -2,42 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
     <loc>https://emelyuwaze.github.io/Emely-Uwaze-Blog/about.html</loc>
-    <lastmod>2020-05-04T17:47:48+02:00</lastmod>
+    <lastmod>2020-11-24T12:19:25+01:00</lastmod>
   </url>
   <url>
     <loc>https://emelyuwaze.github.io/Emely-Uwaze-Blog/english-activity.html</loc>
-    <lastmod>2020-05-04T17:47:49+02:00</lastmod>
+    <lastmod>2020-11-24T12:19:26+01:00</lastmod>
   </url>
   <url>
     <loc>https://emelyuwaze.github.io/Emely-Uwaze-Blog/</loc>
-    <lastmod>2020-05-04T17:47:49+02:00</lastmod>
+    <lastmod>2020-11-24T12:19:26+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://emelyuwaze.github.io/Emely-Uwaze-Blog/posts/2020-11-24-aboutme/</loc>
+    <lastmod>2020-11-24T12:50:14+01:00</lastmod>
   </url>
   <url>
     <loc>https://emelyuwaze.github.io/Emely-Uwaze-Blog/posts/2020-05-04-article-7/</loc>
-    <lastmod>2020-05-05T12:17:16+02:00</lastmod>
+    <lastmod>2020-11-24T12:19:25+01:00</lastmod>
   </url>
   <url>
     <loc>https://emelyuwaze.github.io/Emely-Uwaze-Blog/posts/2020-05-04-article-6/</loc>
-    <lastmod>2020-05-04T23:06:09+02:00</lastmod>
+    <lastmod>2020-11-24T12:19:25+01:00</lastmod>
   </url>
   <url>
     <loc>https://emelyuwaze.github.io/Emely-Uwaze-Blog/posts/2019-12-18-article-5/</loc>
-    <lastmod>2020-05-04T17:47:47+02:00</lastmod>
+    <lastmod>2020-11-24T12:19:24+01:00</lastmod>
   </url>
   <url>
     <loc>https://emelyuwaze.github.io/Emely-Uwaze-Blog/posts/2019-12-02-article-4/</loc>
-    <lastmod>2020-05-04T21:03:32+02:00</lastmod>
+    <lastmod>2020-11-24T12:19:24+01:00</lastmod>
   </url>
   <url>
     <loc>https://emelyuwaze.github.io/Emely-Uwaze-Blog/posts/2019-11-22-article-3/</loc>
-    <lastmod>2020-05-04T17:47:46+02:00</lastmod>
+    <lastmod>2020-11-24T12:19:24+01:00</lastmod>
   </url>
   <url>
     <loc>https://emelyuwaze.github.io/Emely-Uwaze-Blog/posts/2019-11-04-article-2/</loc>
-    <lastmod>2020-05-04T17:47:46+02:00</lastmod>
+    <lastmod>2020-11-24T12:19:24+01:00</lastmod>
   </url>
   <url>
     <loc>https://emelyuwaze.github.io/Emely-Uwaze-Blog/posts/2019-09-18-article-1/</loc>
-    <lastmod>2020-05-04T17:47:46+02:00</lastmod>
+    <lastmod>2020-11-24T12:19:23+01:00</lastmod>
   </url>
 </urlset>

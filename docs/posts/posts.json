@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-11-24-aboutme/",
+    "title": "AboutMe",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Richard Sima",
+        "url": {}
+      }
+    ],
+    "date": "2020-11-24",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-11-24T12:50:14+01:00"
+  },
+  {
     "path": "posts/2020-05-04-article-7/",
     "title": "article 7 : The brain senses touch beyond the body ",
     "description": {},
@@ -12,7 +27,7 @@
     "date": "2020-05-01",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-05-05T12:17:16+02:00"
+    "last_modified": "2020-11-24T12:19:25+01:00"
   },
   {
     "path": "posts/2020-05-04-article-6/",
@@ -29,7 +44,7 @@
       "brain memmory"
     ],
     "preview": {},
-    "last_modified": "2020-05-04T23:06:09+02:00"
+    "last_modified": "2020-11-24T12:19:25+01:00"
   },
   {
     "path": "posts/2019-12-18-article-5/",
@@ -47,7 +62,7 @@
       "memory"
     ],
     "preview": {},
-    "last_modified": "2020-05-04T17:47:47+02:00"
+    "last_modified": "2020-11-24T12:19:24+01:00"
   },
   {
     "path": "posts/2019-12-02-article-4/",
@@ -65,7 +80,7 @@
       "functioning"
     ],
     "preview": {},
-    "last_modified": "2020-05-04T21:03:32+02:00"
+    "last_modified": "2020-11-24T12:19:24+01:00"
   },
   {
     "path": "posts/2019-11-22-article-3/",
@@ -83,7 +98,7 @@
       "sleep deprivation"
     ],
     "preview": {},
-    "last_modified": "2020-05-04T17:47:46+02:00"
+    "last_modified": "2020-11-24T12:19:24+01:00"
   },
   {
     "path": "posts/2019-11-04-article-2/",
@@ -102,7 +117,7 @@
       "neuroscience"
     ],
     "preview": {},
-    "last_modified": "2020-05-04T17:47:46+02:00"
+    "last_modified": "2020-11-24T12:19:24+01:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",
@@ -120,6 +135,6 @@
       "memory"
     ],
     "preview": {},
-    "last_modified": "2020-05-04T17:47:46+02:00"
+    "last_modified": "2020-11-24T12:19:23+01:00"
   }
 ]
